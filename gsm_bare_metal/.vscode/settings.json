@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "app_debug.h": "c",
+        "hardware.h": "c",
+        "gsm_utilities.h": "c"
+    }
+}

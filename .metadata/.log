@@ -1,0 +1,195 @@
+!SESSION 2022-01-08 13:58:10.026 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2022-01-08 13:58:19.575
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2022-01-08 13:58:19.582
+!MESSAGE OS info: Windows 10, 10.0, x86
+
+!ENTRY TrueSTUDIO 1 0 2022-01-08 13:58:20.111
+!MESSAGE Target: STM32, Version: 9.3.0, Build date: 20190212-0734, Installation dir: /C:/Program Files (x86)/Atollic/TrueSTUDIO for STM32 9.3.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2022-01-08 13:58:20.111
+!MESSAGE Workspace: E:\work\hunonic_sim\gsm_baremetal
+
+!ENTRY org.eclipse.jface 2 0 2022-01-08 13:58:20.850
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-01-08 13:58:20.850
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@128f482,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@18b07ae,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2022-01-08 13:58:23.358
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2022-01-08 13:58:23.459
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-01-08 13:58:23.589
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dungh'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.atollic.truestudio.common.wizards 4 0 2022-01-08 14:04:25.239
+!MESSAGE Failed to find the correct FPU ABI, falling back to Soft. Value: 
+
+!ENTRY com.atollic.truestudio.common.wizards 4 0 2022-01-08 14:04:28.600
+!MESSAGE Failed to find the correct FPU ABI, falling back to Soft. Value: 
+
+!ENTRY com.atollic.truestudio.common.wizards 4 0 2022-01-08 14:04:29.031
+!MESSAGE Failed to find the correct FPU ABI, falling back to Soft. Value: 
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-01-08 14:04:35.323
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-01-08 14:04:35.326
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-01-08 14:04:35.329
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-01-08 14:04:35.330
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-01-08 14:04:35.366
+!MESSAGE gsm_bare_metal needs property 'com.atollic.truestudio.general.runtimelib.107734218' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-01-08 14:04:35.366
+!MESSAGE Failed to get device info (Debug) for project gsm_bare_metal
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-01-08 14:04:35.367
+!MESSAGE Failed to get device info (Debug) for project gsm_bare_metal
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-01-08 14:04:35.367
+!MESSAGE Failed to get device info (Debug) for project gsm_bare_metal
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-01-08 14:04:35.368
+!MESSAGE gsm_bare_metal needs property 'com.atollic.truestudio.general.runtimelib.844366252' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-01-08 14:04:35.368
+!MESSAGE Failed to get device info (Release) for project gsm_bare_metal
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-01-08 14:04:35.368
+!MESSAGE Failed to get device info (Release) for project gsm_bare_metal
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2022-01-08 14:04:35.368
+!MESSAGE Failed to get device info (Release) for project gsm_bare_metal
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-01-08 14:04:35.386
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-01-08 14:04:35.387
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-01-08 14:04:35.389
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-01-08 14:04:35.390
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-01-08 14:04:35.426
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-01-08 14:04:35.427
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-01-08 14:04:45.093
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-01-08 14:04:45.188
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-01-08 14:04:45.404
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2022-01-08 14:04:45.494
+!MESSAGE Failed to find device info
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-01-08 14:04:50.821
+!MESSAGE Indexed 'gsm_bare_metal' (35 sources, 78 headers) in 1.24 sec: 9,344 declarations; 30,384 references; 1 unresolved inclusions; 34 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-01-08 14:15:01.770
+!MESSAGE Indexed 'gsm_bare_metal' (49 sources, 102 headers) in 1.42 sec: 11,229 declarations; 36,320 references; 7 unresolved inclusions; 35 syntax errors; 1 unresolved names (0.0021%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-01-08 14:15:33.104
+!MESSAGE Indexed 'gsm_bare_metal' (49 sources, 102 headers) in 1.31 sec: 11,229 declarations; 36,320 references; 7 unresolved inclusions; 35 syntax errors; 1 unresolved names (0.0021%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-01-08 15:26:20.189
+!MESSAGE Indexed 'stm32f401ccu6_sim7070G_NG' (78 sources, 149 headers) in 2.74 sec: 15,817 declarations; 57,973 references; 1 unresolved inclusions; 146 syntax errors; 1 unresolved names (0.0014%)
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2022-01-08 15:51:28.065
+!MESSAGE Unloading product manager
+!SESSION 2022-01-08 16:36:07.063 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  E:\work\hunonic_sim\gsm_baremetal\gsm_bare_metal\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86 E:\work\hunonic_sim\gsm_baremetal\gsm_bare_metal\.cproject
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2022-01-08 16:36:17.867
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2022-01-08 16:36:17.882
+!MESSAGE OS info: Windows 10, 10.0, x86
+
+!ENTRY TrueSTUDIO 1 0 2022-01-08 16:36:19.507
+!MESSAGE Target: STM32, Version: 9.3.0, Build date: 20190212-0734, Installation dir: /C:/Program Files (x86)/Atollic/TrueSTUDIO for STM32 9.3.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2022-01-08 16:36:19.507
+!MESSAGE Workspace: E:\work\hunonic_sim\gsm_baremetal
+
+!ENTRY org.eclipse.jface 2 0 2022-01-08 16:36:21.684
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-01-08 16:36:21.684
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@12c3d70,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@13ca07,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2022-01-08 16:36:25.665
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-01-08 16:36:25.767
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dungh'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2022-01-08 16:36:25.848
+!MESSAGE Code Review is up.
